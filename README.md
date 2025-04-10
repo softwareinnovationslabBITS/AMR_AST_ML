@@ -1,4 +1,6 @@
-# AMR_AST_ML Repository Instructions
+
+# AMR_AST_ML
+# Artefact for Manuscript submitted to MDPI Antibiotics 
 
 This repository contains the code and pre-trained models for antimicrobial resistance (AMR) prediction. It is part of the manuscript submitted to MDPI Antibiotics.
 
@@ -15,6 +17,3 @@ From the exec.py foler execute:
 
 ```bash
 python exec.py
-=======
-# AMR_AST_ML
-# Artefact for Manuscript submitted to MDPI Antibiotics 
