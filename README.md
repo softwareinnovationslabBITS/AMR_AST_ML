@@ -9,4 +9,5 @@ To clone this repository to your local machine, open the terminal/command prompt
 ```bash
 git clone https://github.com/softwareinnovationslabBITS/AMR_AST_ML.git
 cd /path/to/AMR_AST_ML/Exec
-python exec.py
+pip3 install -r requirements.txt
+python3 exec.py
