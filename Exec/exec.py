@@ -10,7 +10,7 @@ import xgboost as xgb
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_FOLDER = os.path.join(BASE_DIR, "input")
 INPUT_FILE = os.path.join(INPUT_FOLDER, "input_data.xlsx") 
-MODEL_FOLDER = os.path.join(BASE_DIR, "model")
+MODEL_FOLDER = os.path.join(BASE_DIR, "models")
 XGB_MODEL_GENETIC_PATH = os.path.join(MODEL_FOLDER, "xgb_model_tuned_genetic.h5")
 XGB_MODEL_PHENO_PATH = os.path.join(MODEL_FOLDER, "xgb_model_tuned_pheno.h5")
 
